@@ -27,10 +27,9 @@ export default function HeroScene() {
       </div>
       <div className="container">
         <div className="hero-content">
-          <span className="eyebrow">
-            <span className="dot" /> היי ניר מימון,
-          </span>
           <h1>
+            היי ניר מימון,
+            <br />
             לומדים <span className="grad-text">Revit</span>
             <br />
             בונים בית אמיתי.
